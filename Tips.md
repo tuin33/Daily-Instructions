@@ -7,4 +7,6 @@
 
 **target：** 标签平滑
 
+**training：** GPU数量、batchsize大小、学习率lr这三最好同步调
+
 **其他：** layer_normalization、tanh
